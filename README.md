@@ -76,3 +76,7 @@ lms.exe
   limited to 49 characters (fixed array sizes with null terminator).
 - Search is case-sensitive — searching "wings" will not match "Wings of Fire".
 - No input validation is performed (e.g., non-numeric input for IDs).
+
+Author Amar
+
+Developed as part of the Thiranex Internship Program.
